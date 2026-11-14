@@ -220,3 +220,10 @@ styles carry their upstreams with them: QS Bar from HANCORE-linux's Quickshell
 Rise, Shima from snowarch's iNiR, Python from ilyamiro's Serpantinum, Nomarchy
 from Omarchy quattro. Full attribution is in [`NOTICE`](NOTICE). Ryoku is
 released under the [GNU GPL v3](LICENSE).
+
+---
+
+<div align="center">
+  <sub>Engineered with precision for secure, scalable systems.</sub><br/>
+  <b>Made by Saransh Singh</b>
+</div>
